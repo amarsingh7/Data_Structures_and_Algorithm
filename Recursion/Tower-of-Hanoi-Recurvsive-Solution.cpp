@@ -24,6 +24,7 @@ int main()
     cin.tie(0); cout.tie(0);
 
     int n;
-    cin >> n;   /* No. of disks */
+    cout<<"Enter number of disks :- ";
+    cin >> n;    /* No. of disks */
     TOH(n, 'A', 'B', 'C');    
 }
