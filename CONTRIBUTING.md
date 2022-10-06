@@ -11,7 +11,7 @@ Please ensure that your pull request adheres to the following guidelines:
 - The pull request and commit should be given a meaningful title.
 - Ensure that you describe your pull request.
 - If the label does not clearly state it's "beginner friendly" purpose, please make sure to confirm with the maintainer that it is used for such issues. Please include the link to where the maintainer approves it in the
-- Maintainer confirmation is also required in case repository has more than one beginner-friendly-like label (e.g. `low-hanging-fruit` and `up-for-grabs`).
+- Maintainer confirmation is also required in case repository has more than one beginner-friendly-like label.
 - The contributed repository must be maintained, have an active community to be able to help newcomers and have issues with an appropriate label.
 - Links must be pointing directly to the repository, no tracking links allowed. This list is not for advertising purposes.
 
