@@ -1,0 +1,26 @@
+/*Program to print factorial of a given number*/
+
+#include <iostream>
+using namespace std;
+int fact( int );            //Prototype
+
+int main()
+{   
+    int n,f;
+    cout<<"Enter a number :-";
+    cin>>n;
+    
+    cout<<"It's Factorial = "<<fact(n);
+    return 0;
+}
+
+int fact(int x)             //Function to return factorial
+{
+    int f=1;
+    if(x==1)
+    return 1;
+    else
+    f=x*fact(x-1) ;
+    return f;
+}
+
